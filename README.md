@@ -1,0 +1,1 @@
+[![status](https://img.shields.io/badge/status-offline-critical?style=for-the-badge)](https://example.org)
